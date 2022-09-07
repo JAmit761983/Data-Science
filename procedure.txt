@@ -1,0 +1,13 @@
+making directory 
+git status 
+cd  go inside directory  
+create branch 
+make file 
+git clone 
+git remote add origin repo 
+git push 
+create tocken 
+
+
+Done 
+
